@@ -1,0 +1,14 @@
+Pwd -- Print Working Directory
+        >displays current directory location
+cd [loc] -- change directory
+	> allows you to move throughout your computer
+mkdir [folder name] -- make directory
+	> creates a new folder in the current directory
+ls > displays the contents of your current directory
+touch [filename] > creates a new file in the current directory
+rm [filename] > deleting/removing a file
+
+-----
+Repository -- like a folder/comtainer that stores files/folders related to a project. It keeps track of the changes made over time.
+	>Local Repository -- version of the repository that is stored on your local computer
+	>Remote Repository -- version of the repository that is stored on a server or cloud-based platform [GitHub]
